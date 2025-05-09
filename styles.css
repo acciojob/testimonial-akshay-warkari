@@ -1,28 +1,23 @@
 /*  your css code here. If applicable */
-.body{
-	padding: ;
-		backgroung-color: ;
-	
-}
 
-.testimonial-container p{
-	/* text-color:bold */
+
+.testimonial-container{
+	 background-color: #f5f5f5;
+    padding: 20px;
 	
 }
 .testimonial{
 	background-color:wheat;
 	padding:15px;
-	margin-bottom:20px;
+	/* margin-bottom:20px; */
 	border:1px solid red;
+	margin-bottom: 15px;
 	
 	
 }
-.testimonial p span{
-	text-align:right;
-	/* background-color:black; */
-	padding-top:20px;
-	font-style:italic;
-	text-align:right;
+.author {
+    text-align: right;
+    font-style: italic;
 }
 
 
